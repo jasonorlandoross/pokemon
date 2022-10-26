@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa%7CRighteous');
+
+body {
+  background: url(https://assets.pokemon.com//assets/cms2/img/misc/virtual-backgrounds/go/pokemon-party.jpg);
+  margin: 0;
+  font-family: 'Comfortaa', cursive;
+}
+
+h1 {
+  font-family: 'Righteous', cursive;
+  background: rgb(163, 222, 46);
+  margin:0;
+  margin-bottom: .5em;
+  padding: 1em;
+  text-align: center;
+}
+
+a {
+  color: rgb(68, 178, 215);
+  text-decoration: none;
+  text-shadow: 1px 1px 1px black;
+  font-size: 1.5em;
+  background: rgba(193, 235, 187, .9);
+}
+
+a:hover {
+  color: ghostwhite;
+}
+
+li {
+  list-style: none;
+}
+
+li a {
+  color: mediumseagreen;
+}
+
+input[type=text] {
+  padding: .3em;
+}
+
+input[type=submit] {
+  padding: .3em;
+  color: rgb(216, 126, 212);
+  background: rgb(160, 227, 190);
+  font-size: 1em;
+  border-radius: 10%;
+}
